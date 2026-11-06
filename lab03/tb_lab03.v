@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+//
+// Copyright (C) 2026 Richard Qin
 
 `timescale 1ns / 1ps
 

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+//
+// Copyright (C) 2026 Richard Qin
 
 module bin_to_gray (
     input  wire [3:0] B,
